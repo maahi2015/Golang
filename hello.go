@@ -5,6 +5,6 @@ func Helloworld(name string) string {
 
 }
 
-func main() {
-
+func main2S() {
+	println(Helloworld("mahi"))
 }

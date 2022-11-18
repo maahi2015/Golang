@@ -7,7 +7,7 @@ import (
 
 func TestHelloworld(t *testing.T) {
 	got := "hi"
-	want := Helloworld("hi")
+	want := Helloworld("hello")
 	if got != want {
 		log.Println("error")
 	}

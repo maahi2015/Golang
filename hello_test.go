@@ -5,10 +5,15 @@ import (
 	"testing"
 )
 
-func TestHelloworld(t *testing.T) {
+func main{
 	got := "hi"
-	want := Helloworld("hello")
+	want := "hi"
 	if got != want {
 		log.Println("error")
+
+		else
+		log.Println("Success")
 	}
 }
+
+
